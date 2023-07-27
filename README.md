@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gulmira
 - 👀 I’m interested in travelling, coding 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on teamworking 
+- 💞️ I’m looking to collaborate on teamworking (backend python) 
 - 📫 How to reach me @hakuna_matatamir (telegram)
 
 <!---
